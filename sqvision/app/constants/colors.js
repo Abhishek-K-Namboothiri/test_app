@@ -1,0 +1,21 @@
+export default {
+  gradientForm: '#A376F1',
+  white: '#FFFFFF',
+  dark: '#444',
+  bgColor: '#fdf9ee',
+  warning: '#f0d500',
+  danger: '#FF0D0E',
+  gray: '#666666',
+  grayLight: '#ccc',
+  black: "#222222",
+  primary: "#007260",
+  secondary: "#39B68D",
+  grey: "#CCCCCC",
+  purple: "#8e4285",
+  bg: "#fdf9ee",
+  warningLinear: "#ec8e1f94",
+  dangerLinear: '#d6336394',
+  successLinear:'#0072608a',
+  blue : '#0000FF',
+};
+ 

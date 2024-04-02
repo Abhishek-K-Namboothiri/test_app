@@ -1,0 +1,11 @@
+export const API_DOM = `https://apd.asia.squirrelvision.ai`
+export const account_creation_url = `${API_DOM}/sqvision/api/v2/auth/users/native/users`
+export const IMAGE_UPLOAD = `${API_DOM}/native/sqvision/api/v1/image-upload`
+export const LOGIN = `${API_DOM}/sqvision/api/v2/auth/users/native/login`
+export const JOBS = `${API_DOM}/native/sqvision/api/v1/jobs`  
+export const COMPLETE = `${API_DOM}/sqvision/complete-jobs` 
+export const ACCEPT = `${API_DOM}/sqvision/accept-jobs` 
+export const OTHER = `${API_DOM}/native/sqvision/api/v1/image-other-upload` 
+export const SENDOTP = `${API_DOM}/sqvision/api/v2/auth/users/password/reset/send_otp`
+export const OTPVERI = `${API_DOM}/sqvision/api/v2/auth/users/password/reset/verify_otp`
+export const UPDATEPAS = `${API_DOM}/sqvision/api/v2/auth/users/update-password`
